@@ -1,4 +1,5 @@
-﻿namespace CybersecurityChatbot
+// Manages user name input
+namespace CybersecurityChatbot
 {
     /// <summary>
     /// Represents the user interacting with the chatbot.
