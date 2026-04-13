@@ -1,4 +1,4 @@
-﻿
+﻿// Main chatbot response logic
 namespace CybersecurityChatbot
 {
     /// <summary>
