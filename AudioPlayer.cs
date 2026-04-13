@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System;// Handles voice greeting playback
 using System.IO;
 using System.Media;
 using System.Runtime.InteropServices;
