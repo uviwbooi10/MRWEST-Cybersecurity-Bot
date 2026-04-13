@@ -1,4 +1,4 @@
-﻿
+﻿// Handles ASCII art and console UI
 namespace CybersecurityChatbot
 {
     /// <summary>
