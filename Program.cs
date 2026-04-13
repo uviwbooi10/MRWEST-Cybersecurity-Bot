@@ -1,4 +1,4 @@
-﻿
+﻿// Entry point for MrWest Cybersecurity Bot
 
 namespace CybersecurityChatbot
 {
