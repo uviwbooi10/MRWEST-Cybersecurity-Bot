@@ -90,6 +90,11 @@ GitHub Actions automatically builds the project on every push to `main`. Check t
 
 ---
 
+### Workflow Screenshot
+
+<img width="1907" height="1079" alt="Screenshot 2026-04-13 222538" src="https://github.com/user-attachments/assets/80115f16-5f6f-4a1e-8c3c-699674421f93" />
+
+
 ##  References
 
 - Microsoft Docs – [Console class](https://learn.microsoft.com/en-us/dotnet/api/system.console)
